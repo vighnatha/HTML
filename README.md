@@ -1,2 +1,2 @@
 # HTML
-Author - Vighnatha
+Author - Vighnatha Soma
